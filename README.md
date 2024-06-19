@@ -6,3 +6,8 @@ Some simple text goes here!
 - Topic 1
 - Topic 2
 - Topic 3
+
+## New feature section
+- Feature 1
+- Feature 2
+- Feature 3
