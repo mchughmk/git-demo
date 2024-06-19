@@ -11,3 +11,7 @@ Some simple text goes here!
 - Feature 1
 - Feature 2
 - Feature 3
+
+## Another feature
+- One
+- Two
